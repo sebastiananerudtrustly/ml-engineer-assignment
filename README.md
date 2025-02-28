@@ -1,6 +1,6 @@
 # Predicting the weather
 
-This repo contains some data and instructions for one main task and one bonus task (not necessary, but will grant extra points if you have the time). 
+This repo contains some data and instructions for the exercise. 
 Your solution to this exercise will be used to evaluate your fit for the Machine Learning Engineer position at Trustly. 
 We expect the main exercise to take a 3-4 at most and we don't expect the code to be "perfect", but you should be able to talk about your decisions and what you could improve upon if you had more time.
 Remember that this is more of a machine learning exercise than a data exploration exercise.
@@ -20,7 +20,7 @@ __You__: I can have a look to see what can be done. Has there been any previous 
 
 __Stakeholder__: Thanks! Yes, we had a Data Engineer who fetched some weather data and a Data Scientist that did an analysis of how different weather measurements correlated with tomorrow's weather. You should talk to them!
 
-## Exercise 1 (main exercise)
+## Exercise
 
 _After some discussion with the Data Scientist you receive the dataset that that was used for the analysis and some tips on what correlations was found in the data.
 You now believe that you have what it takes to build a model that will predict tomorrow's weather._
